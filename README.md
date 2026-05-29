@@ -1,2 +1,2 @@
-# meu-saite-Rafael
-saite pensamento computacional
+# meu-site-Rafael
+site pensamento computacional
